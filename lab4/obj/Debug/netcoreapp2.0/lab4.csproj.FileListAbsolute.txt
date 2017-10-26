@@ -1,0 +1,10 @@
+E:\Eddie\AutomationBasic\automationBasic\lab4\bin\Debug\netcoreapp2.0\lab4.deps.json
+E:\Eddie\AutomationBasic\automationBasic\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.json
+E:\Eddie\AutomationBasic\automationBasic\lab4\bin\Debug\netcoreapp2.0\lab4.runtimeconfig.dev.json
+E:\Eddie\AutomationBasic\automationBasic\lab4\bin\Debug\netcoreapp2.0\lab4.dll
+E:\Eddie\AutomationBasic\automationBasic\lab4\bin\Debug\netcoreapp2.0\lab4.pdb
+E:\Eddie\AutomationBasic\automationBasic\lab4\obj\Debug\netcoreapp2.0\lab4.csproj.CoreCompileInputs.cache
+E:\Eddie\AutomationBasic\automationBasic\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfoInputs.cache
+E:\Eddie\AutomationBasic\automationBasic\lab4\obj\Debug\netcoreapp2.0\lab4.AssemblyInfo.cs
+E:\Eddie\AutomationBasic\automationBasic\lab4\obj\Debug\netcoreapp2.0\lab4.dll
+E:\Eddie\AutomationBasic\automationBasic\lab4\obj\Debug\netcoreapp2.0\lab4.pdb
