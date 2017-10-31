@@ -1,15 +1,15 @@
-
 using System;
 
-public class Dog : IAnimal
+public class Hamster : IAnimal
 {
     public string Name { get; set; }
+
     public void MakeNoise()
     {
-        Console.WriteLine(Name + " says Ham");
+        Console.WriteLine(Name + " says chit chit");
     }
     public string Eat()
     {
-        return "cats";
+        return "carrots";
     }
 }
