@@ -6,10 +6,13 @@ public class Cat : IAnimal
 
     public void MakeNoise()
     {
-        Console.WriteLine(Name + " says Miau");
+        string noise = "miau miau";
+        Console.WriteLine(Name + " says " + noise);
     }
     public string Eat()
     {
-        return "mice";
+        string food = "mice";
+        Console.WriteLine(Name + " eats " + food);
+        return food;
     }
 }

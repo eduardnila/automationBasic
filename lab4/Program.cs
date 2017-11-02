@@ -42,6 +42,7 @@ namespace lab4
             foreach (var cat in animalList)
             {
                 cat.MakeNoise();
+                cat.Eat();
             }
         }
     }

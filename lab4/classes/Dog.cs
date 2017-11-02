@@ -1,4 +1,3 @@
-
 using System;
 
 public class Dog : IAnimal
@@ -6,10 +5,13 @@ public class Dog : IAnimal
     public string Name { get; set; }
     public void MakeNoise()
     {
-        Console.WriteLine(Name + " says Ham");
+        string noise = "ham ham";
+        Console.WriteLine(Name + " says " + noise);
     }
     public string Eat()
     {
-        return "cats";
+        string food = "bones";
+        Console.WriteLine(Name + " eats " + food);
+        return food;
     }
 }

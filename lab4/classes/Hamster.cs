@@ -1,4 +1,5 @@
 using System;
+using System.Text;
 
 public class Hamster : IAnimal
 {
@@ -6,10 +7,13 @@ public class Hamster : IAnimal
 
     public void MakeNoise()
     {
-        Console.WriteLine(Name + " says chit chit");
+        string noise = "chit chit";
+        Console.WriteLine(Name + " says " + noise);
     }
     public string Eat()
     {
-        return "carrots";
+        string food = "carrots";
+        Console.WriteLine(Name + " eats " + food);
+        return food;
     }
 }
